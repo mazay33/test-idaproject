@@ -1,4 +1,10 @@
-# idaproject-test
+# idaproject-test 
+
+Тестовое задание для Idaproject
+
+Выполнены все 3 уровня заданий.
+
+NODE VERSION - v16.15.1
 
 ## Project setup
 ```
