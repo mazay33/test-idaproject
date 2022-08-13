@@ -1,0 +1,21 @@
+@import 'utils/vars';
+@import 'utils/reset';
+
+html {
+    line-height: $mainLineHeight;
+    font-size: $mainFontSize;
+    color: $mainFontColor;
+    height: 100%;
+}
+
+body {
+    font-family: $mainFont;
+    font-size: $mainFontSize;
+    font-weight: $mainFontWeight;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+    background-color: #faf9f7;
+}
+
